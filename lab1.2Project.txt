@@ -1,5 +1,6 @@
 Lab 1 project
 first try
 some changes
-new staff, moooore info for additional commit on master branch
+new staff
 text for branch2, good staff, text for amend command testing
+text for branch3, aditional info for second commit on branch3
