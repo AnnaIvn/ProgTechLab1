@@ -3,4 +3,4 @@ first try
 some changes
 new staff
 text for branch2, good staff, text for amend command testing
-text for branch3
+text for branch3, aditional info for second commit on branch3
